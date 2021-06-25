@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my github 👋
 
-<!--
-**JehanneDussert/JehanneDussert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻⚖️ I am a student at __42__ Paris and also an __IT lawyer__
+⭐️ All my projects are available in open source, don't hesitate to consult them! 
 
-Here are some ideas to get you started:
+📈 __What I am currently learning__ ⤵️
+- [C++ language](https://github.com/JehanneDussert/cpp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ __What I have already achieved__ ⤵️
+- [C] [Minishell](https://github.com/JehanneDussert/minishell) : team coding of asimple bash shell with my mate [Emma](https://github.com/ede-banv)
+- [PHP, Dockerfile] [Kubernetes & clustering](https://github.com/JehanneDussert/ft_services) : setting up an infrastructure of different services (Grafana, Wordpress, phpMyAdmin, MySQL, InfluxDB, FTPS, nginx)
+- [C] [Cub3D](https://github.com/JehanneDussert/Cub3D) : dynamic view inside a maze in ray-casting
+- [C] [Philosophers](https://github.com/JehanneDussert/philosophers) : program using threads, mutex, semaphore, forks
+- [Dialogflow, Facebook for Developers, Messenger] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo) : chatbot providing information on endometriosis
