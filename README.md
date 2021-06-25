@@ -12,5 +12,3 @@ All my projects are available in open source, don't hesitate to consult them! ‚≠
 - [C] [Cub3D](https://github.com/JehanneDussert/Cub3D) : dynamic view inside a maze in ray-casting
 - [C] [Philosophers](https://github.com/JehanneDussert/philosophers) : program using threads, mutex, semaphore, forks
 - [Dialogflow, Facebook for Developers, Messenger] [Comprendre l'endom√©triose](https://www.facebook.com/comprendrelendo) : chatbot providing information on endometriosis
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanneDussert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
