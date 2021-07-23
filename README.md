@@ -1,7 +1,7 @@
 ### Welcome to my github page 👋
 
 I am a student at __42__ Paris and also an __IT lawyer__ 💻⚖️ 
-All my projects are available in open source, don't hesitate to consult them! ⭐️ 
+All my projects are available in open source, don't hesitate to consult it! ⭐️ 
 
 📈 __I am currently working on__ ⤵️
 - [C++ containers](https://github.com/JehanneDussert/ft_containers) : Vector, Map, Stack
