@@ -1,9 +1,9 @@
 ### Welcome to my github page 👋
 
-[![Jehanne's 42 stats](https://badge42.herokuapp.com/api/stats/jdussert?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
-
 I am a student at __42__ Paris and also an __IT lawyer__ 💻⚖️ 
 All my projects are available in open source, don't hesitate to consult it! ⭐️ 
+
+[![Jehanne's 42 stats](https://badge42.herokuapp.com/api/stats/jdussert?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 📈 __I am currently working on__ ⤵️
 - [C++ containers](https://github.com/JehanneDussert/ft_containers) &&  [C++ tester](https://github.com/JehanneDussert/ft_containers_test) : Vector, Map, Stack
