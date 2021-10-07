@@ -19,4 +19,4 @@ All my projects are available in open source, don't hesitate to consult it! ⭐�
 
 💫 If you are interested, you can discover how I combine law and code ⤵️
 - with my articles on [criminology & AI](https://medium.com/ai-for-tomorrow/lav%C3%A8nement-de-la-criminologie-actuarielle-nouvelle-m%C3%A9thodologie-dans-l-%C3%A9tude-du-d%C3%A9linquant-af7007a395a5) or [law & algorithms](https://www.village-justice.com/articles/legaltechs-professions-reglementees,33509.html)
-- with my last [podcast](https://lnkd.in/d5HCuwA)
+- with my last [podcast](https://open.spotify.com/episode/6l6Y6AHdbYRxckAgUU0klF?si=ixAoDJh9RFOl0ZuuGnLBNg&dl_branch=1)
