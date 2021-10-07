@@ -16,3 +16,7 @@ All my projects are available in open source, don't hesitate to consult it! ⭐�
 - [C] [Cub3D](https://github.com/JehanneDussert/Cub3D) : dynamic view inside a maze in ray-casting
 - [C] [Philosophers](https://github.com/JehanneDussert/philosophers) : program using threads, mutex, semaphore, forks
 - [Dialogflow, Facebook for Developers, Messenger] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo) : chatbot providing information on endometriosis
+
+💫 If you are interested, you can discover how I combine law and code ⤵️
+- with my articles on [criminology & AI](https://medium.com/ai-for-tomorrow/lav%C3%A8nement-de-la-criminologie-actuarielle-nouvelle-m%C3%A9thodologie-dans-l-%C3%A9tude-du-d%C3%A9linquant-af7007a395a5) or [law & algorithms](https://www.village-justice.com/articles/legaltechs-professions-reglementees,33509.html)
+- with my last [podcast](https://lnkd.in/d5HCuwA)
