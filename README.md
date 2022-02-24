@@ -5,7 +5,7 @@ I am a student at __42__ Paris and also an __IT lawyer__ 💻⚖️
 [![Jehanne's 42 stats](https://badge42.herokuapp.com/api/stats/jdussert?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 📈 __I am currently working on__ ⤵️
-- transcendence: team coding of a multiplayer Pong game in a web language
+- [NestJS, React] transcendence: team coding of a multiplayer Pong game
 - exams @ 42
 
 ✅ __I have already achieved__ ⤵️
