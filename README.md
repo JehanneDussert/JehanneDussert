@@ -1,6 +1,6 @@
 ### Welcome to my github page 👋
 
-🙋‍♀️ I am a student at __42__ Paris and also an __IT lawyer__ <br />
+🙋‍♀️ I am a student at 42 Paris and also an IT lawyer <br />
 🏓 I am currently working on transcendence: team coding of a multiplayer Pong game (NestJS, React) <br />
 ♥️ I love Tech for Good <br />
 
