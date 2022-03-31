@@ -5,7 +5,7 @@
 ♥️ I love Tech for Good <br />
 
 __Some of my projects:__
-- [x] [webserv](https://github.com/JehanneDussert/webserv): writing an HTTP server with my mates [Melchior](https://github.com/mmaj0708) & [Valentin](https://github.com/valentinllpz) (C++)
+- [x] [webserv](https://github.com/JehanneDussert/webserv): team coding of an HTTP server
 - [x] [Kubernetes & clustering](https://github.com/JehanneDussert/ft_services): setting up an infrastructure of different services
 - [x] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo): chatbot providing information on endometriosis
 
