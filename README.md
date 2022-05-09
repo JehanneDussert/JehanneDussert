@@ -1,10 +1,11 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am a student at 42 Paris and also an IT lawyer <br />
-🏓 I am currently working on transcendence: team coding of a multiplayer Pong game (NestJS, React) <br />
+✍️ I am currently working on my last exam @ 42
 ♥️ I love Tech for Good <br />
 
 __Some of my projects:__
+- [x] [Transcendence](https://github.com/JehanneDussert/ft_transcendence): team coding of a multiplayer Pong game (NestJS, React)
 - [x] [Webserv](https://github.com/JehanneDussert/webserv): team coding of an HTTP server
 - [x] [Kubernetes & clustering](https://github.com/JehanneDussert/ft_services): setting up an infrastructure of different services
 - [x] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo): chatbot providing information on endometriosis
