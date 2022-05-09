@@ -1,7 +1,7 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am a student at 42 Paris and also an IT lawyer <br />
-✍️ I am currently working on my last exam @ 42
+✍️ I am currently working on my last exam @ 42 <br />
 ♥️ I love Tech for Good <br />
 
 __Some of my projects:__
