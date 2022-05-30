@@ -1,7 +1,7 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am a student at 42 Paris and also an IT lawyer <br />
-🤳 I am currently working on [camagru](https://github.com/JehanneDussert/camagru): small Instagram-like site allowing users to make and share photo-montages.
+🤳 I am currently working on [camagru](https://github.com/JehanneDussert/camagru): small Instagram-like site allowing users to make and share photo-montages.<br />
 ♥️ I love Tech for Good <br />
 
 __Some of my projects:__
