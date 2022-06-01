@@ -1,8 +1,8 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am a student at 42 Paris and also an IT lawyer <br />
+⚖️ I am a freelancer on the [A-JUST project](https://github.com/betagouv/a-just) (@ [beta.gouv](https://github.com/betagouv)): assist jurisdictions in allocating their human resources to reduce court delays. 
 🤳 I am currently working on [camagru](https://github.com/JehanneDussert/camagru): kind of Instagram allowing users to make and share photo-montages<br />
-♥️ I love Tech for Good <br />
 
 __Some of my projects:__
 - [x] [Transcendence](https://github.com/JehanneDussert/ft_transcendence): team coding of a multiplayer Pong game (NestJS, React)
