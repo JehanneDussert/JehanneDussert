@@ -1,7 +1,7 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am a student at 42 Paris and also an IT lawyer <br />
-⚖️ I am currently a freelancer on the [A-JUST project](https://github.com/betagouv/a-just) @ [beta.gouv](https://github.com/betagouv): assist jurisdictions in allocating their human resources to reduce court delays <br />
+⚖️ I am currently a freelancer on the [A-JUST project](https://github.com/betagouv/a-just) @ [beta.gouv](https://github.com/betagouv) (Prime Minister's Office): assist jurisdictions in allocating their human resources to reduce court delays <br />
 🤳 In parallel, I am working on [camagru](https://github.com/JehanneDussert/camagru): kind of Instagram allowing users to make and share photo-montages (JS, PHP) <br />
 
 __Some of my projects:__
