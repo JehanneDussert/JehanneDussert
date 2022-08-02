@@ -2,9 +2,9 @@
 
 🙋‍♀️ I am an alumni of 42 Paris and also an IT lawyer <br />
 ⚖️ I am currently a business developer on the [A-JUST project](https://github.com/betagouv/a-just) @[beta.gouv](https://github.com/betagouv): assist jurisdictions in allocating their human resources to reduce court delays <br />
-♿ In parallel, I am learning how to create accessible and inclusive web content
-<!-- 👾 In parallel, I am working on [Unity & C#](https://github.com/JehanneDussert/TwinCity): creation of a city and a crowd controlled by an AI <br /> -->
+♿ In parallel, I am learning how to create accessible and inclusive web content <br />
 ⚠️ If you want to copy my code or my README, please credit me! <br />
+<!-- 👾 In parallel, I am working on [Unity & C#](https://github.com/JehanneDussert/TwinCity): creation of a city and a crowd controlled by an AI <br /> -->
 
 __Some of my projects:__
 - [x] [Transcendence](https://github.com/JehanneDussert/ft_transcendence): team coding of a multiplayer Pong game (NestJS, React)
