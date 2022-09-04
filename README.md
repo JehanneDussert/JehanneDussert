@@ -1,16 +1,18 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am an alumni of 42 Paris and also an IT lawyer <br />
-⚖️ I am currently a business developer on the [A-JUST project](https://github.com/betagouv/a-just) @[beta.gouv](https://github.com/betagouv): assist jurisdictions in allocating their human resources to reduce court delays <br />
-♿ In parallel, I am learning how to create accessible and inclusive web content <br />
-⚠️ If you want to copy my code or my README, please credit me! <br />
-<!-- 👾 In parallel, I am working on [Unity & C#](https://github.com/JehanneDussert/TwinCity): creation of a city and a crowd controlled by an AI <br /> -->
+👾 In parallel, I am working on [Unity & C#](https://github.com/JehanneDussert/unityIntro) <br />
 
 __Some of my projects:__
 - [x] [Transcendence](https://github.com/JehanneDussert/ft_transcendence): team coding of a multiplayer Pong game (NestJS, React)
 - [x] [Webserv](https://github.com/JehanneDussert/webserv): team coding of an HTTP server
 - [x] [Kubernetes & clustering](https://github.com/JehanneDussert/ft_services): setting up an infrastructure of different services
 - [x] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo): chatbot providing information on endometriosis
+
+---
+<p align="center">
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanneDussert)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ---
 
