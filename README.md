@@ -10,10 +10,7 @@ __Some of my projects:__
 - [x] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo): chatbot providing information on endometriosis
 
 ---
-<p align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanneDussert)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JehanneDussert)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 __Publications and conferences:__ 
