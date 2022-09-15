@@ -1,13 +1,15 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am an alumni of 42 Paris and also an IT lawyer <br />
-👾 In parallel, I am working on [Unity & C#](https://github.com/JehanneDussert/unityIntro) <br />
+👾 I am a developer at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities <br />
 
+<!--
 __Some of my projects:__
 - [x] [Transcendence](https://github.com/JehanneDussert/ft_transcendence): team coding of a multiplayer Pong game (NestJS, React)
 - [x] [Webserv](https://github.com/JehanneDussert/webserv): team coding of an HTTP server
 - [x] [Kubernetes & clustering](https://github.com/JehanneDussert/ft_services): setting up an infrastructure of different services
 - [x] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo): chatbot providing information on endometriosis
+-->
 
 ---
 
