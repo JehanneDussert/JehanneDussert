@@ -1,7 +1,7 @@
 ### Welcome to my github page 👋
 
 🙋‍♀️ I am an alumni of 42 Paris and also an IT lawyer <br />
-👾 I am a developer at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities <br />
+👾 I am currently a developer at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities <br />
 
 <!--
 __Some of my projects:__
