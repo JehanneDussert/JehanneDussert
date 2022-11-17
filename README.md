@@ -1,15 +1,13 @@
 ### Welcome to my github page 👋
 
-🙋‍♀️ I am an alumni of 42 Paris and also an IT lawyer <br />
-👾 I am currently working at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities <br />
+I am currently working at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities <br />
 
-<!--
-__Some of my projects:__
-- [x] [Transcendence](https://github.com/JehanneDussert/ft_transcendence): team coding of a multiplayer Pong game (NestJS, React)
-- [x] [Webserv](https://github.com/JehanneDussert/webserv): team coding of an HTTP server
-- [x] [Kubernetes & clustering](https://github.com/JehanneDussert/ft_services): setting up an infrastructure of different services
-- [x] [Comprendre l'endométriose](https://www.facebook.com/comprendrelendo): chatbot providing information on endometriosis
--->
+At first I worked on :
+- recovery, formatting and cleaning of the [data](https://github.com/twin-city/prepare-data) enabling us to populate our world
+- The [creation of some Parisian districts](https://github.com/twin-city/unreal-project)
+In a second time, I will work on :
+- world partition & game performance
+- integration of textures, materials, assets
 
 ---
 
