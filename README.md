@@ -3,7 +3,7 @@
 I am currently working at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities. <br />
 
 At first I worked on :
-- [x] recovery, formatting and cleaning of the [data](https://github.com/twin-city/prepare-data) enabling us to populate our world
+- [x] extraction, formatting and cleaning of the [data](https://github.com/twin-city/prepare-data) enabling us to populate our world
 - [x] [creation of some Parisian districts](https://github.com/twin-city/unreal-project) <br />
 
 In a second time, I will work on :
