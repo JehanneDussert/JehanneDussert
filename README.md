@@ -1,8 +1,8 @@
 ### Welcome to my github page 👋
 
-I am currently working at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities. <br />
+I work as a developer at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities. <br />
 
-I am currently working in a team with a [developer](https://github.com/remisansfamine) and a [game artist](https://github.com/willocks). At first we worked on :
+I currently lead a team composed of an other [developer](https://github.com/remisansfamine) and a [game artist](https://github.com/willocks). At first we worked on :
 - [x] extraction, formatting and cleaning of the [data](https://github.com/twin-city/prepare-data) enabling us to populate our world
 - [x] [creation of some Parisian districts](https://github.com/twin-city/unreal-project)
 - [x] creation of first objects, textures to make the world more realistic <br />
