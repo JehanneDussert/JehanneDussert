@@ -1,10 +1,44 @@
-### Welcome to my github page 👋
+<h1 align="center">
+   <!-- LinkedIn -->
+   <a href="https://www.linkedin.com/in/jehanne-dussert/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=LinkedIn" />
+   </a>
+  <a href="https://medium.com/@jehanne-dussert" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
+   </a>
+   <a href="https://twitter.com/JehanneDussert" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" />
+   </a>
+   <a href="https://www.youtube.com/channel/UC4sfsfYKlr4tEutqjh0QpeA" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/YouTube-333333.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+   </a>
+</h1>
 
-#### ⚡️ More about me
-I am a software engineer, an IT lawyer and a criminologist.
+<div align="center"> 
+  
+  #### ⚡️ More about me
+  
+  - [x] Freelance software engineer, IT lawyer and criminologist
 
-#### 💼 I am currently working on
-As part of DINUM's [General Interest Entrepreneur programme](https://eig.etalab.gouv.fr/defis/twincity/), I work as a Lead Developer at the Ministry of the Interior on the [TwinCity project](https://github.com/twin-city). Our goal: explore the potential of artificial intelligence through digital twins of cities. <br />
+</div>
+
+<h1></h1>
+
+<div align="center"> 
+
+  #### 💼 Previous experience
+  
+  - [x] Lead 3D developer @ French Ministry of the Interior - working on a synthetic data generator to detect biases in pedestrian detection algorithms <br/>
+    
+  👉 [Project](https://github.com/twin-city/unreal-project) | [Documentation](https://github.com/twin-city/unreal-project/wiki) | [More](https://eig.etalab.gouv.fr/defis/twincity/)
+  
+  - [x] Business developer of A-JUST, a court staff management platform @ French Ministry of Justice <br/>
+    
+  👉 [Project](https://github.com/betagouv/a-just) | [More](https://beta.gouv.fr/startups/a-just.html)
+
+</div>
+
+<!-- 
 
 #### 📃 Publications and conferences
 - [Retour sur le sprint organisé par Twincity : l’équipe dévoile ses premières réalisations](https://medium.com/@jehanne-dussert/retour-sur-le-sprint-organis%C3%A9-par-twincity-l%C3%A9quipe-d%C3%A9voile-ses-premi%C3%A8res-r%C3%A9alisations-1eb9fd7f2221) <br />
@@ -13,10 +47,4 @@ As part of DINUM's [General Interest Entrepreneur programme](https://eig.etalab.
 - [Parcours atypique : Réorientation dans la tech et tech for good](https://www.youtube.com/watch?v=zpVCbXXHtXU&t=4s&ab_channel=BeMyApp) <br />
 - [Table Ronde sur le cyberharcèlement](https://www.youtube.com/watch?v=9DbSmU_b6RY&t=2062s&ab_channel=SheoTechnology) <br />
 
-#### 📨 Contact
-<a href="https://www.linkedin.com/in/jehanne-dussert/">
-  <img width="21px" src= "https://cdn-icons-png.flaticon.com/512/61/61109.png" 
-<a/>
-<a href="https://twitter.com/JehanneDussert">
-  <img width="21px" src= "https://cdn-icons-png.flaticon.com/512/733/733635.png" 
-<a/>
+-->
