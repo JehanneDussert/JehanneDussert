@@ -36,15 +36,8 @@
     
   👉 [Project](https://github.com/betagouv/a-just) | [More](https://beta.gouv.fr/startups/a-just.html)
 
+- [x] Founder & developer @ Comprendre l'endométriose (Understanding endometriosis), a chatbot available on Messenger providing free, sourced information on this chronic disease <br/>
+    
+  👉 [Start chatting](https://www.m.me/comprendrelendo) | 🇫🇷 Only
+
 </div>
-
-<!-- 
-
-#### 📃 Publications and conferences
-- [Retour sur le sprint organisé par Twincity : l’équipe dévoile ses premières réalisations](https://medium.com/@jehanne-dussert/retour-sur-le-sprint-organis%C3%A9-par-twincity-l%C3%A9quipe-d%C3%A9voile-ses-premi%C3%A8res-r%C3%A9alisations-1eb9fd7f2221) <br />
-- [Défi Twincity : la Sous-direction Innovation et Transformation Numérique (SDITN) présente son bac à sable de données synthétiques](https://link.medium.com/pqh5VC8lNwb) <br />
-- [L’avènement de la criminologie actuarielle: nouvelle méthodologie dans l’étude du délinquant](https://medium.com/ai-for-tomorrow/lav%C3%A8nement-de-la-criminologie-actuarielle-nouvelle-m%C3%A9thodologie-dans-l-%C3%A9tude-du-d%C3%A9linquant-af7007a395a5) <br />
-- [Parcours atypique : Réorientation dans la tech et tech for good](https://www.youtube.com/watch?v=zpVCbXXHtXU&t=4s&ab_channel=BeMyApp) <br />
-- [Table Ronde sur le cyberharcèlement](https://www.youtube.com/watch?v=9DbSmU_b6RY&t=2062s&ab_channel=SheoTechnology) <br />
-
--->
