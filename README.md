@@ -1,5 +1,7 @@
 <h1 align="center">
-   <!-- LinkedIn -->
+   <a href="https://gitlab.com/JehanneDussert" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/-Gitlab-333333?style=for-the-badge&logo=Gitlab&logoColor=white" />
+   </a>
    <a href="https://www.linkedin.com/in/jehanne-dussert/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=LinkedIn" />
    </a>
