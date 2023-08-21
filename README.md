@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center"> 
-  
+
   #### ⚡️ More about me
   
   - [x] Freelance software engineer, IT lawyer and criminologist
@@ -27,6 +27,8 @@
 <h1></h1>
 
 <div align="center"> 
+
+👷‍♀️ Currently working as a web developer @ [Interministerial Digital Directorate (DINUM)](https://github.com/DISIC) to create the civil service's chatGPT
 
   #### 💼 Previous experience
   
