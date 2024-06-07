@@ -9,10 +9,10 @@
       <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
    </a>
    <a href="https://twitter.com/JehanneDussert" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=white" />
    </a>
-   <a href="https://www.youtube.com/channel/UC4sfsfYKlr4tEutqjh0QpeA" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/YouTube-333333.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+   <a href="[https://www.youtube.com/channel/UC4sfsfYKlr4tEutqjh0QpeA](https://www.instagram.com/jehanne.codes/)" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Instagram-333333.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
    </a>
 </h1>
 
@@ -28,9 +28,10 @@
 
 <div align="center"> 
 
-👷‍♀️ Currently working as a web developer @ [Interministerial Digital Directorate (DINUM)](https://github.com/DISIC) to create the civil service's chatGPT
-
   #### 💼 Previous experience
+  
+  - [x] Front-end developer @ [Etalab](https://github.com/etalab-ia/) - [Interministerial Digital Directorate (DINUM)](https://github.com/DISIC) to create the civil service's chatGPT<br/>
+   👉 [Project](https://github.com/etalab-ia/albert/) | [More](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
   
   - [x] Lead 3D developer @ French Ministry of the Interior - working on a synthetic data generator to detect biases in pedestrian detection algorithms <br/>
     
