@@ -31,7 +31,7 @@
   #### 💼 Previous experience
   
   - [x] Front-end developer @ [Etalab](https://github.com/etalab-ia/) - [Interministerial Digital Directorate (DINUM)](https://github.com/DISIC) to create the civil service's chatGPT<br/>
-   👉 [Project](https://github.com/etalab-ia/albert/) | [More](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
+   👉 [Project](https://github.com/etalab-ia/albert-frontend) | [More](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
   
   - [x] Lead 3D developer @ French Ministry of the Interior - working on a synthetic data generator to detect biases in pedestrian detection algorithms <br/>
     
