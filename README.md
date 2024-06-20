@@ -11,7 +11,7 @@
    <a href="https://twitter.com/JehanneDussert" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=white" />
    </a>
-   <a href="[https://www.youtube.com/channel/UC4sfsfYKlr4tEutqjh0QpeA](https://www.instagram.com/jehanne.codes/)" target="_blank" rel="noreferrer">
+   <a href="https://www.instagram.com/jehanne.codes/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Instagram-333333.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
    </a>
 </h1>
@@ -31,7 +31,7 @@
   #### 💼 Previous experience
   
   - [x] Front-end developer @ [Etalab](https://github.com/etalab-ia/) - [Interministerial Digital Directorate (DINUM)](https://github.com/DISIC) to create the civil service's chatGPT<br/>
-   👉 [Project](https://github.com/etalab-ia/albert/) | [More](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
+   👉 [Project]([https://github.com/etalab-ia/albert/) | [More](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
   
   - [x] Lead 3D developer @ French Ministry of the Interior - working on a synthetic data generator to detect biases in pedestrian detection algorithms <br/>
     
