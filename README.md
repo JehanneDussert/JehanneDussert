@@ -20,7 +20,7 @@
 
   #### ⚡️ More about me
   
-  - [x] Freelance software engineer, IT lawyer and criminologist
+👷‍♀️ Currently working as a Tech Lead in GenAI @ [DGFiP](https://github.com/dgfip) to build sovereign tools 🇫🇷
 
 </div>
 
