@@ -1,48 +1,57 @@
 <h1 align="center">
-   <a href="https://gitlab.com/JehanneDussert" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-Gitlab-333333?style=for-the-badge&logo=Gitlab&logoColor=white" />
-   </a>
-   <a href="https://www.linkedin.com/in/jehanne-dussert/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=LinkedIn" />
-   </a>
+  <a href="https://www.jehannedussert.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jehanne-dussert/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=LinkedIn" />
+  </a>
   <a href="https://medium.com/@jehanne-dussert" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
-   </a>
-   <a href="https://twitter.com/JehanneDussert" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=white" />
-   </a>
-   <a href="https://www.instagram.com/jehanne.codes/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Instagram-333333.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-   </a>
+    <img src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/JehanneDussert" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jehanne.codes/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-333333.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </h1>
 
-<div align="center"> 
+<div align="center">
 
-  #### ⚡️ More about me
-  
-👷‍♀️ Currently working as a Tech Lead in GenAI @ [DGFiP](https://github.com/dgfip) to build sovereign tools 🇫🇷
+### AI Governance & LLMOps — Public Sector
 
-</div>
+Tech Lead in Generative AI & AI Governance at [DGFiP](https://github.com/dgfip),
+deploying LLM-based tools across French public administration.
 
-<h1></h1>
-
-<div align="center"> 
-
-  #### 💼 Previous experience
-  
-  - [x] Front-end developer @ [Etalab](https://github.com/etalab-ia/) - [Interministerial Digital Directorate (DINUM)](https://github.com/DISIC) to create the civil service's chatGPT<br/>
-   👉 [Project](https://github.com/etalab-ia/franceservices-frontend) | [More](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
-  
-  - [x] Lead 3D developer @ French Ministry of the Interior - working on a synthetic data generator to detect biases in pedestrian detection algorithms <br/>
-    
-  👉 [Project](https://github.com/twin-city/unreal-project) | [Documentation](https://github.com/twin-city/unreal-project/wiki) | [More](https://eig.etalab.gouv.fr/defis/twincity/)
-  
-  - [x] Business developer of A-JUST, a court staff management platform @ French Ministry of Justice <br/>
-    
-  👉 [Project](https://github.com/betagouv/a-just) | [More](https://beta.gouv.fr/startups/a-just.html)
-
-- [x] Founder & developer @ Comprendre l'endométriose (Understanding endometriosis), a chatbot available on Messenger providing free, sourced information on this chronic disease <br/>
-    
-  👉 [Start chatting](https://www.m.me/comprendrelendo) | 🇫🇷 Only
+Law × Code × Governance —
+[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) expert evaluator · Former [Council of Europe](https://www.coe.int) AI Advisory Board · EU [Fiscalis](https://taxation-customs.ec.europa.eu/fiscalis-programme_en) GenAI working group
 
 </div>
+
+---
+
+### 🔭 Current project
+
+**[llm_governance_monitoring](https://github.com/JehanneDussert/llm_governance_monitoring)**
+— A self-hosted LLMOps stack for AI governance in production.
+
+Regulatory evaluation judge configurable against AI Act, GDPR, ANSSI & OWASP LLM Top 10.
+Use-case × model scoring matrix. Governance-based routing. Built for non-technical
+public sector decision-makers.
+
+> *Governance from metrics — deriving governance decisions from
+> production observability, not static policy documents.*
+
+---
+
+### 🏛️ Previous work
+
+**[Albert](https://github.com/etalab-ia/franceservices-frontend)** — Front-end developer @ [Etalab](https://github.com/etalab-ia/) / [DINUM](https://github.com/DISIC)
+The French civil service's LLM assistant · [Learn more](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
+
+**[TwinCity](https://github.com/twin-city/unreal-project)** — Lead 3D developer @ French Ministry of the Interior
+Synthetic data generator to detect bias in pedestrian detection algorithms ·
+[Docs](https://github.com/twin-city/unreal-project/wiki) · [Learn more](https://eig.etalab.gouv.fr/defis/twincity/)
+
+**[A-JUST](https://github.com/betagouv/a-just)** — Developer @ French Ministry of Justice
+Court staff management platform · [Learn more](https://beta.gouv.fr/startups/a-just.html)
