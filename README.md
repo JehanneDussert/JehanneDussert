@@ -32,7 +32,7 @@ Law × Code × Governance —
 
 ### 🔭 Current project
 
-**[llm_governance_monitoring](https://github.com/JehanneDussert/llm_governance_monitoring)**
+**[Govllm](https://github.com/JehanneDussert/govllm)**
 — A self-hosted LLMOps stack for AI governance in production.
 
 Regulatory evaluation judge configurable against AI Act, GDPR, ANSSI & OWASP LLM Top 10.
