@@ -15,11 +15,9 @@
     <img src="https://img.shields.io/badge/Instagram-333333.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </h1>
-
 <div align="center">
 
 ### AI Governance & LLMOps — Public Sector
-
 Tech Lead in Generative AI & AI Governance at [DGFiP](https://github.com/dgfip),
 deploying LLM-based tools across French public administration.
 
@@ -30,7 +28,7 @@ Law × Code × Governance —
 
 ---
 
-### 🔭 Current project
+### 🔭 Current side project
 
 **[Govllm](https://github.com/JehanneDussert/govllm)**
 — A self-hosted LLMOps stack for AI governance in production.
@@ -41,6 +39,8 @@ public sector decision-makers.
 
 > *Governance from metrics — deriving governance decisions from
 > production observability, not static policy documents.*
+
+> ⚠️ *Personal project — not affiliated with, funded by, or endorsed by any French public administration.*
 
 ---
 
