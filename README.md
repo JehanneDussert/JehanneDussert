@@ -33,6 +33,8 @@ Law × Code × Governance —
 **[Govllm](https://github.com/JehanneDussert/govllm)**
 — A self-hosted LLMOps stack for AI governance in production.
 
+[![Paper](https://img.shields.io/badge/arXiv-2605.24737-b31b1b.svg)](https://arxiv.org/abs/2605.24737)
+
 Regulatory evaluation judge configurable against AI Act, GDPR, ANSSI & OWASP LLM Top 10.
 Use-case × model scoring matrix. Governance-based routing. Built for non-technical
 public sector decision-makers.
