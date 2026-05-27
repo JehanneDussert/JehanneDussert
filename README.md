@@ -28,12 +28,13 @@ Law × Code × Governance —
 
 ---
 
-### 🔭 Current side project
+### 🔭 Research project
 
 **[Govllm](https://github.com/JehanneDussert/govllm)**
 — A self-hosted LLMOps stack for AI governance in production.
 
 [![Paper](https://img.shields.io/badge/arXiv-2605.24737-b31b1b.svg)](https://arxiv.org/abs/2605.24737)
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/JehanneDussert/govllm-compliance-corpus)
 
 Regulatory evaluation judge configurable against AI Act, GDPR, ANSSI & OWASP LLM Top 10.
 Use-case × model scoring matrix. Governance-based routing. Built for non-technical
