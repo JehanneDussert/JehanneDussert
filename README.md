@@ -15,14 +15,16 @@
     <img src="https://img.shields.io/badge/Instagram-333333.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </h1>
+
 <div align="center">
 
-### AI Governance & LLMOps — Public Sector
-Tech Lead in Generative AI & AI Governance at [DGFiP](https://github.com/dgfip),
-deploying LLM-based tools across French public administration.
+### AI Governance & LLMOps
+
+Generative AI & AI Governance — deploying LLM-based tools and designing
+governance frameworks across the public sector.
 
 Law × Code × Governance —
-[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) expert evaluator · Former [Council of Europe](https://www.coe.int) AI Advisory Board · EU [Fiscalis](https://taxation-customs.ec.europa.eu/fiscalis-programme_en) GenAI working group
+[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) expert evaluator · Former [Council of Europe](https://www.coe.int) AI Advisory Board
 
 </div>
 
@@ -42,12 +44,15 @@ public sector decision-makers.
 
 > *Governance from metrics — deriving governance decisions from
 > production observability, not static policy documents.*
-
 > ⚠️ *Personal project — not affiliated with, funded by, or endorsed by any French public administration.*
 
 ---
 
 ### 🏛️ Previous work
+
+**[DGFiP](https://github.com/dgfip)** — Tech Lead GenAI & AI Governance Coordinator
+Hands-on LLM deployment and design of a national AI governance framework for a 95,000-staff
+public administration · large-scale GenAI across 11 directorates · EU [Fiscalis](https://taxation-customs.ec.europa.eu/fiscalis-programme_en) working group
 
 **[Albert](https://github.com/etalab-ia/franceservices-frontend)** — Front-end developer @ [Etalab](https://github.com/etalab-ia/) / [DINUM](https://github.com/DISIC)
 The French civil service's LLM assistant · [Learn more](https://www.info.gouv.fr/actualite/ia-connaissez-vous-albert)
