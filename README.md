@@ -21,12 +21,19 @@
 ### AI Governance & LLMOps
 
 Generative AI & AI Governance — deploying LLM-based tools and designing
-governance frameworks across the public sector.
+governance frameworks across global organizations.
 
 Law × Code × Governance —
 [Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) expert evaluator · Former [Council of Europe](https://www.coe.int) AI Advisory Board
 
 </div>
+
+---
+
+### 💼 Current role
+
+**AI Governance Lead** @ AXA Group Operations
+Group-level AI governance for a global insurer operating across 17 countries · EU AI Act implementation · stakeholder network spanning Business, Data Science, MLOps, Legal, Risk, and Public Affairs.
 
 ---
 
@@ -44,7 +51,6 @@ public sector decision-makers.
 
 > *Governance from metrics — deriving governance decisions from
 > production observability, not static policy documents.*
-> ⚠️ *Personal project — not affiliated with, funded by, or endorsed by any French public administration.*
 
 ---
 
