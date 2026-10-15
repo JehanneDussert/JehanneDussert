@@ -18,13 +18,11 @@
 
 <div align="center">
 
-### AI Governance & LLMOps
+### AI Governance · Law × Code
 
-Generative AI & AI Governance — deploying LLM-based tools and designing
-governance frameworks across global organizations.
+Engineer and jurist. I turn legal rules into code that checks AI systems while they run.
 
-Law × Code × Governance —
-[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) expert evaluator · Former [Council of Europe](https://www.coe.int) AI Advisory Board
+[Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) expert evaluator · Former [Council of Europe](https://www.coe.int) AI Advisory Board (CEPEJ)
 
 </div>
 
@@ -37,20 +35,37 @@ Group-level AI governance for a global insurer operating across 17 countries · 
 
 ---
 
-### 🔭 Research project
+### 🔭 Independent projects
 
-**[Govllm](https://github.com/JehanneDussert/govllm)**
-— A self-hosted LLMOps stack for AI governance in production.
+**[Underlaid](https://github.com/JehanneDussert/underlaid)** · [underlaid.fr](https://underlaid.fr)
+— A public map of living conditions and access inequalities across the 2,752 neighbourhoods of Paris and its inner suburbs.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23083312.svg)](https://doi.org/10.5281/zenodo.23083312)
+
+Heat, air and noise, housing, access to care, and travel times to everyday places for three ways of getting around, including by wheelchair. Hypotheses are pre-registered before any calculation.
+
+> *In half of Parisian neighbourhoods, reaching an accessible stop takes 17 minutes in a wheelchair, against 3 without constraint.*
+
+**[GovLLM](https://github.com/JehanneDussert/govllm)**
+— Continuous LLM governance monitoring for regulated environments. Self-hosted, policy-as-code.
 
 [![Paper](https://img.shields.io/badge/arXiv-2605.24737-b31b1b.svg)](https://arxiv.org/abs/2605.24737)
 [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/JehanneDussert/govllm-compliance-corpus)
+[![OECD.AI](https://img.shields.io/badge/OECD.AI-Catalogue%20of%20Tools-0b4e8c)](https://oecd.ai/en/catalogue/tools/govllm)
 
-Regulatory evaluation judge configurable against AI Act, GDPR, ANSSI & OWASP LLM Top 10.
-Use-case × model scoring matrix. Governance-based routing. Built for non-technical
-public sector decision-makers.
+Each use case gets a governance profile written as code, with criteria mapped to the AI Act, GDPR, ANSSI and OWASP LLM Top 10. Small local models judge every output against it, and requests are routed to the model that meets its rules. No data leaves your infrastructure.
 
-> *Governance from metrics — deriving governance decisions from
-> production observability, not static policy documents.*
+> *How do you justify a model choice six months after go-live?*
+
+---
+
+### 🎙️ Talks & writing
+
+- **United Nations**: contribution to the [Global Dialogue on AI Governance](https://www.un.org/global-dialogue-ai-governance/en/inputs) (2026)
+- **European Commission**: contribution on AI Act Article 50 (2026)
+- **Parlez-moi d'IA n°106**, Radio Cause Commune ([listen](https://www.youtube.com/watch?v=VBzLZySLnWU&t=482s), 2026)
+- **[Hacktivate AI](https://events.openai.com/hacktivateai/)**: invited speaker, Brussels (2025)
+- **Council of Europe**: [first report on AI in the judiciary](https://rm.coe.int/cepej-aiab-2024-4rev5-en-first-aiab-report-2788-0938-9324-v-1/1680b49def), AI Advisory Board (2025)
 
 ---
 
